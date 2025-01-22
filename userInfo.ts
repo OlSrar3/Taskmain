@@ -30,3 +30,5 @@ export let  usersInfoArr: IusersInfoArray[]=[
      }
     }]
 console.log(usersInfoArr);
+
+

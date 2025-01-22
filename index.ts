@@ -38,6 +38,7 @@ const usersInfoMap:Map <string, any> = new Map(usersInfoArr.map(user=>[user.user
            
         }
         
+        
 const usersPositions=getUsersJobPositions();
       
 console.log(usersPositions);
