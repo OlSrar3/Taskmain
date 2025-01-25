@@ -17,5 +17,3 @@ export let usersArr:  IusersArray []= [
     console.log(usersArr);
     
     
-
-    
